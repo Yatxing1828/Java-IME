@@ -40,7 +40,7 @@ The `main` method of `TextualImageEditor` is responsible for the console-based a
 
 ### Command List
 
-*This is also a fully-functional script, and it was used to generate all manipulated images in
+*This is also a fully-functional script, and it can be used to generate example manipulated images in
 the `images` directory.*
 
 ```

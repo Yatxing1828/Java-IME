@@ -1,6 +1,6 @@
 # Image Manipulation and Enhancement
 
-### CS 3500 Assignment 4
+### Application GUI
 
 ![GUI](GUI.png)
 
